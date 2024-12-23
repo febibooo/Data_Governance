@@ -1,0 +1,11 @@
+ServiceID,Name,Description,Price,ProviderID
+S001,Basic Subscription,Monthly subscription for basic use,"Rp50.000,00",P001
+S002,Premium Plan,Access to all premium features,"Rp100.000,00",P002
+S003,Pay-as-You-Go,Pay only for what you use,"Rp75.000,00",P003
+S004,Family Plan,Plan for multiple family members,"Rp150.000,00",P001
+S005,Annual Plan,Discounted annual subscription,"Rp500.000,00",P002
+S006,Student Plan,Special discount for students,"Rp30.000,00",P003
+S007,Enterprise Plan,Customized plan for enterprises,"Rp1.000.000,00",P001
+S008,Free Trial,Limited-time free access,"Rp0,00",P003
+S009,Add-on Storage,Additional storage capacity,"Rp20.000,00",P002
+S010,On-demand Support,Priority customer support,"Rp25.000,00",P003
